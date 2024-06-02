@@ -2,5 +2,7 @@
     "Shop": true,
     "Blog": true,
     "User": true,
-    "Auth": true
+    "Auth": true,
+    "Migration": true,
+    "CreateShopTables": true
 }
